@@ -19,7 +19,7 @@ Before setting up the project, ensure you have the following installed:
 
 - [Node.js](https://nodejs.org/): JavaScript runtime environment.
 - [Composer](https://getcomposer.org/): Dependency manager for PHP.
-- [Herd](https://herd.dev/): macOS PHP & Laravel development environment.
+- [Herd](https://herd.laravel.com): macOS PHP & Laravel development environment.
 
 ## Installation
 
